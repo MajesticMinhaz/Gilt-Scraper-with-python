@@ -1,0 +1,4 @@
+.idea/
+__pycache__/
+output_csv/.~lock.gilt_product_info.csv#
+venv/
